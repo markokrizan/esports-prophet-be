@@ -1,0 +1,31 @@
+version: "3"
+
+services:
+  dot-net-rest-api:
+    container_name: docker-dot-net-rest-api
+    restart: always
+    build: .
+    environment:
+      - DBHOST=dot-net-mysql-db
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports: 
+      - '5000:80'
+    depends_on:
+      - dot-net-mysql-db
+
+  dot-net-mysql-db:
+    container_name: docker-dot-net-mysql-db
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_DATABASE: dot_net_rest_api_db
+      MYSQL_USER: user
+      MYSQL_PASSWORD: user
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - 3306:3306
+    volumes:
+      - mysqldbdata:/var/lib/mysql
+
+volumes:
+  mysqldbdata:

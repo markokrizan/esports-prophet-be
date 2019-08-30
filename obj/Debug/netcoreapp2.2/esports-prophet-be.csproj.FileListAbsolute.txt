@@ -1,0 +1,14 @@
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/bin/Debug/netcoreapp2.2/esports-prophet-be.deps.json
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/bin/Debug/netcoreapp2.2/esports-prophet-be.runtimeconfig.json
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/bin/Debug/netcoreapp2.2/esports-prophet-be.runtimeconfig.dev.json
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/bin/Debug/netcoreapp2.2/esports-prophet-be.dll
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/bin/Debug/netcoreapp2.2/esports-prophet-be.pdb
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/obj/Debug/netcoreapp2.2/esports-prophet-be.csprojAssemblyReference.cache
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/obj/Debug/netcoreapp2.2/esports-prophet-be.csproj.CoreCompileInputs.cache
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/obj/Debug/netcoreapp2.2/esports-prophet-be.RazorAssemblyInfo.cache
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/obj/Debug/netcoreapp2.2/esports-prophet-be.RazorAssemblyInfo.cs
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/obj/Debug/netcoreapp2.2/esports-prophet-be.AssemblyInfoInputs.cache
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/obj/Debug/netcoreapp2.2/esports-prophet-be.AssemblyInfo.cs
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/obj/Debug/netcoreapp2.2/esports-prophet-be.RazorTargetAssemblyInfo.cache
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/obj/Debug/netcoreapp2.2/esports-prophet-be.dll
+/Users/markokrizan/Documents/code-workspaces/esports-prophet-be/obj/Debug/netcoreapp2.2/esports-prophet-be.pdb
